@@ -25,7 +25,7 @@ AI가 초대장 디자인과 문구를 자동 생성하며,
 
 | 분류 | 기술 |
 |------|------|
-| Frontend | React / Flutter / Tailwind (예정 기술명 입력) |
+| Frontend | React / Flutter |
 | Backend | Spring Boot / GraphQL / MySQL / Redis |
 | Infra | Docker / Nginx / MinIO |
 | AI | OpenAI API / 이미지·문구 생성 |
