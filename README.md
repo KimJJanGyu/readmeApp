@@ -16,7 +16,7 @@ AI가 초대장 디자인과 문구를 자동 생성하며,
 
 ## 관련 자료
 
-- **프로젝트 노션**: (https://your-notion-link-here)
+- **프로젝트 노션**: (https://www.notion.so/28dfc5752b9080c8b1b4e84ac4ab92f9)
 - **Figma 시안**: (https://www.figma.com/make/MOdD0EGKrVcwlKoqoKYbPX/Event-Invitation-Builder?node-id=0-1&p=f&t=nMbUgwfhqgevPdNJ-0&fullscreen=1)
 
 ---
